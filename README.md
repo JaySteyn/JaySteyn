@@ -24,9 +24,9 @@ I started my career in digital design and worked my way into technology. Profici
 - 🔭 Always open to collaborating on projects and innovative/disruptive ideas. 
 
 <p align="center">
-  <img height="50%" align="center"  width="auto" src ="https://github-readme-stats.vercel.app/api?username=JaySteyn&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000">
-  <img height="50%" align="center"  width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=JaySteyn&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=JaySteyn&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="50%" align="center"  width="auto" src ="https://github-readme-stats.vercel.app/api?username=ErenPhayte&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000">
+  <img height="50%" align="center"  width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenPhayte&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ErenPhayte&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
   
@@ -34,5 +34,5 @@ I started my career in digital design and worked my way into technology. Profici
 
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=JaySteyn.JaySteyn)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ErenPhayte.ErenPhayte)
 </div>
