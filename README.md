@@ -7,7 +7,7 @@
 
 <br />
 
-### Hi there, I'm Johan Steyn, AKA Jay (https://www.linkedin.com/in/johansteyn/)
+### Hi there, I'm [Johan Steyn, AKA Jay](https://www.linkedin.com/in/johansteyn/)
 <br />
 
 I am VP of Engineering at <strong>[Kurtosys](https://kurtosys.com/)</strong>.
